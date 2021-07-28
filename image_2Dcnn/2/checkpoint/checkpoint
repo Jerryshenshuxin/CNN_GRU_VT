@@ -1,0 +1,2 @@
+model_checkpoint_path: "train_image_2Dcnn.ckpt"
+all_model_checkpoint_paths: "train_image_2Dcnn.ckpt"
